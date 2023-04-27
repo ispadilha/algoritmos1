@@ -1,0 +1,17 @@
+'Exercicio 088'
+
+Enunciado:
+Faça um programa Pascal que leia do teclado dois valores inteiros x e y, e em seguida calcule e imprima o valor da seguinte expressão:
+
+((x**3)+x*y)
+
+Exemplos:
+Entrada 1:
+4 3
+Saída Esperada 1:
+76
+
+Entrada 2:
+5 2
+Saída Esperada 2:
+135
