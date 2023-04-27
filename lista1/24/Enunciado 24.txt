@@ -1,0 +1,20 @@
+'Exercicio 109'
+
+Enunciado:
+Faça um programa Pascal que leia do teclado um número inteiro N, e imprima (-N) caso o número seja maior que -15 e menor que 30; ou então imprima N caso contrário.
+
+Exemplos:
+Entrada 1:
+17
+Saída Esperada 1:
+-17
+
+Entrada 2:
+-101
+Saída Esperada 2:
+-101
+
+Entrada 3:
+-13
+Saída Esperada 3:
+13
