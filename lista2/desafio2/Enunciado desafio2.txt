@@ -1,0 +1,39 @@
+'Exercicio 044'
+
+Enunciado:
+Faça um programa Pascal que receba como entrada três valores inteiros n, m e p.
+Este programa deverá fazer a soma de todos os números entre n e m (incluindo n e m), cujo intervalo entre eles seja de p.
+Considere que n < m e que p > 0.
+
+Por exemplo:
+se n=1, m=5 e p=1, queremos a soma
+1 + 2 + 3 + 4 + 5
+
+se n=1, m=5 e p=3, queremos a soma
+1 + 4
+
+se n=1, m=5 e p=18, queremos a soma
+1
+
+se n=1, m=33 e p=10, queremos a soma
+1 + 11 + 21
+
+se n=1, n=32 e p=10, queremos a soma
+1 + 11
+
+Exemplos:
+Entrada 1:
+0
+10
+4
+
+Saída Esperada 1:
+12
+
+Entrada 2:
+2
+6
+8
+
+Saída Esperada 2:
+2
