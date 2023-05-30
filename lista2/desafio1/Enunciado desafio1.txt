@@ -1,0 +1,19 @@
+'Exercicio 017'
+
+Enunciado:
+Números palíndromos são aqueles que podem ser lidos igualmente tanto da direita para a esquerda quanto da esquerda para a direita. Faça um programa Pascal que leia um número inteiro positivo N do teclado e verifique se esse número é um palíndromo. Caso ele seja, imprima "SIM" na tela. Em caso contrário imprima "NAO" na tela.
+
+Dica: usando divisões sucessivas por 10, tente reconstruir o número ao contrário.
+
+Exemplos:
+Entrada 1:
+12321
+
+Saída Esperada 1:
+SIM
+
+Entrada 2:
+123421
+
+Saída Esperada 2:
+NAO
