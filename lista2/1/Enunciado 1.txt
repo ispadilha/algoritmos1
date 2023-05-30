@@ -1,0 +1,15 @@
+'Exercicio 026'
+
+Enunciado:
+Faça um programa Pascal que leia do teclado um valor inteiro que é a área de um cômodo e imprima a potência de iluminação necessária para iluminá-lo de acordo com a fórmula dada.
+
+Exemplos:
+Entrada 1:
+5
+Saida Esperada 1:
+100
+
+Entrada 2:
+9
+Saida Esperada 2:
+170
