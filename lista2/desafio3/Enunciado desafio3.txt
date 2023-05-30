@@ -1,0 +1,24 @@
+'Exercicio 018'
+
+Enunciado:
+O cardápio de uma lancheria é o seguinte:
+
+Especificação	Código	Preço
+Cachorro quente	100	1,20
+Bauru simples	101	1,30
+Bauru com ovo	102	1,50
+Hambúrger	103	1,20
+Cheeseburguer	104	1,30
+Refrigerante	105	1,00
+Faça um programa Pascal que leia os seguintes valores inteiros: o código de um item pedido e a quantidade desejada desse item. Imprima o valor a ser pago. Considere que a cada execução do programa somente será calculado o valor referente a 1 (um) item.
+
+Exemplos:
+Entrada 1:
+101 3
+Saída Esperada 1:
+3.90
+
+Entrada 2:
+104 5
+Saída Esperada 2:
+6.50
